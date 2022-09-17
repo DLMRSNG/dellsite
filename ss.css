@@ -41,6 +41,11 @@ body {
 	background-color: #DCDCDC;
 	width: 272px;
 	height: 30px;
+	transition: 0.15s;
+}
+
+#int1:hover {
+	border: 1px solid grey;
 }
 
 #int2 {
@@ -51,6 +56,11 @@ body {
 	background-color: #DCDCDC;
 	width: 272px;
 	height: 30px;
+	transition: 0.15s;
+}
+
+#int2:hover {
+	border:1px solid grey;
 }
 
 #btn {
