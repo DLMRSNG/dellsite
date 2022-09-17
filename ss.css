@@ -64,6 +64,9 @@ body {
 	height: 30px;
 	color: white;
 }
+#btn:hover {
+	background-color: darkblue;
+}
 
 .foot {
 	text-align: center;
