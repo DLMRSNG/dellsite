@@ -73,6 +73,7 @@ body {
 	width: 277px;
 	height: 30px;
 	color: white;
+	transition: 0.15s;
 }
 
 #btn:hover {
