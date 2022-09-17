@@ -64,8 +64,13 @@ body {
 	height: 30px;
 	color: white;
 }
+
 #btn:hover {
 	background-color: darkblue;
+}
+
+#btn:active {
+	opacity: 0.5;
 }
 
 .foot {
